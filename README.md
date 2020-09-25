@@ -16,7 +16,9 @@ will do in the next year is not possible. Now, the most heavily traded stock out
 highest ROI.  And lastly, after refactoring the VBA script, the time it took to run each script dropped to less than
 1/6 of the time as the original script.  Those run times are shown below in the imbedded images.
 
+![alt text](https://github.com/jseverin1984/stock-analysis/blob/master/resources/VBA_Challenge_2017.png "runtime for 2017")
 
+![alt text](https://github.com/jseverin1984/stock-analysis/blob/master/resources/VBA_Challenge_2018.png "runtime for 2018")
 
 
 ## Summary
